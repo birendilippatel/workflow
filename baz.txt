@@ -1,3 +1,7 @@
 started feature-3
 
 ended feature-3
+
+feature-2!
+
+finished!
