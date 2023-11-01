@@ -4,6 +4,6 @@ Hello world, from the remote repo!
 
 Hello, yet again!
 
-Another update in main
+Another update in main.
 
-one more for good measure.
+One more for good measure.
